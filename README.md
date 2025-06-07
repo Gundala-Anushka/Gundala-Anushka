@@ -5,7 +5,7 @@
 👩🏻‍🎓Computer Science student at Utkal University<br/>
 💕I'm pursuing integrated masters in computer application<br/>
 # 💫 About Me:
--👋I’m @Gundala-Anushka<br>- 👀 I’m interested in Computers<br>- 🌱 I’m learning new things everyday <br>- 💞️ I know python,C,C++,Front end development,Data Structure<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: I can dance💃🏻<br>
+-👋I’m @Gundala-Anushka<br>- 👀 I’m interested in Computers<br>- 🌱 I’m learning new things everyday <br>- 💞️ Knowledge in:Python,C,C++,Javascript,Html5,CSS3,JQuery,SQL,Data Structure<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: I can dance💃🏻<br>
 
 
 ## 🌐 Socials:
