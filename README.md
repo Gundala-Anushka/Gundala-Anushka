@@ -1,4 +1,4 @@
-##Hi I'm Anushka
+## Hi I'm Anushka
 # 💫 About Me:
 🔭 I’m currently pursuing integrated masters in computer application<br>🤝 I’m learning new things everyday<br>⚡ Fun fact i like to dance and i can crochet<br>💞️ Knowledge in:Python,C,C++,Javascript,Html5,CSS3,PHP,SQL,Data Structure<br>😄 Pronouns: she/her
 
